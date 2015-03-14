@@ -1,0 +1,6 @@
+.jumbotron-captions{color: #434a54;height: 50px;max-height: 50px;padding: 5px;}
+.jumbotron-captions p{margin-bottom: 1px; padding: 2px; font-size: 12px; text-align: center; font-weight: 400}
+.carousel-items .active.left { left: -33%; }
+.carousel-items .next        { left:  33%; }
+.carousel-items .prev        { left: -33%; }
+.carousel-control.left,.carousel-control.right {background-image:none;}
