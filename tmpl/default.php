@@ -12,7 +12,7 @@ defined('_JEXEC') or die;
 <link rel="stylesheet" href="<?php echo JURI::base(); ?>media/mod_multiplecarousel/css/multiplecarousel.css" type="text/css" />
 <script src="<?php echo JURI::base() ?>media/mod_multiplecarousel/js/multiplecarousel.js"></script>            
 
-<div class="carousel-slide carousel slide" id="<?php echo $moduleid_sfx; ?>">                
+<div class="carousel-slide carousel slide" id="<?php echo $moduleid_sfx; ?>" data-ride="carousel" data-interval="3000">                
     <!-- Wrapper for slides -->
     <div class="carousel-items carousel-inner">
         <?php //print_r($data_slide); ?>

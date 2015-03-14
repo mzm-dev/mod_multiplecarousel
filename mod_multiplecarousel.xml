@@ -30,6 +30,13 @@
                     label="Module Id Suffix" 
                     description="id for module">
                 </field>
+                <field 
+                    name="module_interval" 
+                    type="text" 
+                    default="3000" 
+                    label="Module Options Interval" 
+                    description="The amount of time to delay between automatically cycling an item.">
+                </field>
                                               
                 <field type="spacer" name="myspacer1" label="&lt;h4&gt;Slide 1&lt;/h4&gt;&lt;hr/&gt;" />		
                 <field name="slide1_caption" type="text" default="Pusat Pengajian Perancangan Bandar dan Urbanisasi" label="Slide 1 Text" description="The body text for slide 1"></field>               
