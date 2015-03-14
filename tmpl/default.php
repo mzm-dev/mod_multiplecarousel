@@ -9,9 +9,8 @@
 //No Direct Access
 defined('_JEXEC') or die;
 ?>
-<style>
-
-</style>
+<link rel="stylesheet" href="<?php echo JURI::base(); ?>media/mod_multiplecarousel/css/mod_multiplecarousel.css" type="text/css" />
+<script src="<?php echo JURI::base() ?>media/mod_multiplecarousel/css/mod_multiplecarousel.js"></script>            
 <div class="panel">
 
     <div class="carousel-slide carousel slide" id="<?php echo $moduleid_sfx; ?>">                

@@ -32,43 +32,43 @@
                 </field>
                                               
                 <field type="spacer" name="myspacer1" label="&lt;h4&gt;Slide 1&lt;/h4&gt;&lt;hr/&gt;" />		
-                <field name="slide1_caption" type="text" default="This is the caption text for slide 1. You can change this from inside of the module manager" label="Slide 1 Text" description="The body text for slide 1"></field>               
+                <field name="slide1_caption" type="text" default="Pusat Pengajian Perancangan Bandar dan Urbanisasi" label="Slide 1 Text" description="The body text for slide 1"></field>               
                 <field name="slide1_image" type="media" directory="sliders" label="Slide 1 Main Image" description="This is the main image for this slide. (Demo picture under images/sliders/slider1.jpg)" />                
                 <field name="slide1_link" type="url" default="#" label="Slide 1 Button Link" description="The link of the button"></field>                
                 
                 <field type="spacer" name="myspacer2" label="&lt;h4&gt;Slide 2&lt;/h4&gt;&lt;hr/&gt;" />		
-                <field name="slide2_caption" type="text" default="This is the caption text for slide 2. You can change this from inside of the module manager" label="Slide 2 Text" description="The body text for slide 1"></field>               
+                <field name="slide2_caption" type="text" default="Pusat Pengajian Pengurusan Sisa Pepejal" label="Slide 2 Text" description="The body text for slide 1"></field>               
                 <field name="slide2_image" type="media" directory="sliders" label="Slide 2 Main Image" description="This is the main image for this slide. (Demo picture under images/sliders/slider1.jpg)" />                
                 <field name="slide2_link" type="url" default="#" label="Slide 2 Button Link" description="The link of the button"></field>                    
                 
                 <field type="spacer" name="myspacer3" label="&lt;h4&gt;Slide 3&lt;/h4&gt;&lt;hr/&gt;" />		
-                <field name="slide3_caption" type="text" default="This is the caption text for slide 3. You can change this from inside of the module manager" label="Slide 3 Text" description="The body text for slide 1"></field>               
+                <field name="slide3_caption" type="text" default="Pusat Pengajian Perumahan" label="Slide 3 Text" description="The body text for slide 1"></field>               
                 <field name="slide3_image" type="media" directory="sliders" label="Slide 3 Main Image" description="This is the main image for this slide. (Demo picture under images/sliders/slider1.jpg)" />                
                 <field name="slide3_link" type="url" default="#" label="Slide 3 Button Link" description="The link of the button"></field>                    
                 
                 <field type="spacer" name="myspacer4" label="&lt;h4&gt;Slide 4&lt;/h4&gt;&lt;hr/&gt;" />		
-                <field name="slide4_caption" type="text" default="This is the caption text for slide 4. You can change this from inside of the module manager" label="Slide 4 Text" description="The body text for slide 1"></field>               
+                <field name="slide4_caption" type="text" default="Pusat Pengajian Kerajaan Tempatan" label="Slide 4 Text" description="The body text for slide 1"></field>               
                 <field name="slide4_image" type="media" directory="sliders" label="Slide 4 Main Image" description="This is the main image for this slide. (Demo picture under images/sliders/slider1.jpg)" />                
                 <field name="slide4_link" type="url" default="#" label="Slide 4 Button Link" description="The link of the button"></field>                    
                 
                 <field type="spacer" name="myspacer5" label="&lt;h4&gt;Slide 5&lt;/h4&gt;&lt;hr/&gt;" />		
-                <field name="slide5_caption" type="text" default="This is the caption text for slide 5. You can change this from inside of the module manager" label="Slide 5 Text" description="The body text for slide 5"></field>               
+                <field name="slide5_caption" type="text" default="Pusat Pengajian Pengurusan Landskap" label="Slide 5 Text" description="The body text for slide 5"></field>               
                 <field name="slide5_image" type="media" directory="sliders" label="Slide 5 Main Image" description="This is the main image for this slide. (Demo picture under images/sliders/slider1.jpg)" />                
                 <field name="slide5_link" type="url" default="#" label="Slide 5 Button Link" description="The link of the button"></field>                
                 
                 <field type="spacer" name="myspacer6" label="&lt;h4&gt;Slide 6&lt;/h4&gt;&lt;hr/&gt;" />		
-                <field name="slide6_caption" type="text" default="This is the caption text for slide 6. You can change this from inside of the module manager" label="Slide 6 Text" description="The body text for slide 5"></field>               
+                <field name="slide6_caption" type="text" default="Pusat Pengajian Pemahaman Perundangan dan Penguatkuasaan" label="Slide 6 Text" description="The body text for slide 5"></field>               
                 <field name="slide6_image" type="media" directory="sliders" label="Slide 6 Main Image" description="This is the main image for this slide. (Demo picture under images/sliders/slider1.jpg)" />                
                 <field name="slide6_link" type="url" default="#" label="Slide 6 Button Link" description="The link of the button"></field>                    
                 
                 <field type="spacer" name="myspacer7" label="&lt;h4&gt;Slide 7&lt;/h4&gt;&lt;hr/&gt;" />		
                 <field name="slide7_heading" type="text" default="Slide 7 Heading" label="Slide 7 Heading" description="The heading for slide 7"></field>
-                <field name="slide7_caption" type="text" default="This is the caption text for slide 7. You can change this from inside of the module manager" label="Slide 7 Text" description="The body text for slide 5"></field>               
+                <field name="slide7_caption" type="text" default="This is the caption text for slide 7." label="Slide 7 Text" description="The body text for slide 5"></field>               
                 <field name="slide7_image" type="media" directory="sliders" label="Slide 7 Main Image" description="This is the main image for this slide. (Demo picture under images/sliders/slider1.jpg)" />                
                 <field name="slide7_link" type="url" default="#" label="Slide 7 Button Link" description="The link of the button"></field>                    
                 
                 <field type="spacer" name="myspacer8" label="&lt;h4&gt;Slide 8&lt;/h4&gt;&lt;hr/&gt;" />		                
-                <field name="slide8_caption" type="text" default="This is the caption text for slide 8. You can change this from inside of the module manager" label="Slide 8 Text" description="The body text for slide 5"></field>               
+                <field name="slide8_caption" type="text" default="This is the caption text for slide 8." label="Slide 8 Text" description="The body text for slide 5"></field>               
                 <field name="slide8_image" type="media" directory="sliders" label="Slide 8 Main Image" description="This is the main image for this slide. (Demo picture under images/sliders/slider1.jpg)" />                
                 <field name="slide8_link" type="url" default="#" label="Slide 8 Button Link" description="The link of the button"></field>                    
             </fieldset>
